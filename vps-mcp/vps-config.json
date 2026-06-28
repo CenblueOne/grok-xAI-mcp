@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "vps": {
+      "command": "npx",
+      "args": ["-y", "ssh-mcp-server"],
+      "env": {
+        "SSH_HOST": "your-vps-ip-or-domain.com",
+        "SSH_USER": "root",
+        "SSH_KEY_PATH": "/path/to/your/private_key"
+      },
+      "description": "Kontrol VPS Linux via SSH"
+    }
+  }
+}
