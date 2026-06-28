@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yahoo-finance": {
+      "description": "Yahoo Finance data (harga saham, fundamental, historis)",
+      "note": "Gunakan script yahoo_finance_tools.py sebagai dasar custom MCP Server"
+    }
+  }
+}
