@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "windows-mcp": {
+      "url": "https://YOUR-NGROK-URL.ngrok.io/mcp",
+      "description": "Windows desktop control via MCP"
+    }
+  }
+}
